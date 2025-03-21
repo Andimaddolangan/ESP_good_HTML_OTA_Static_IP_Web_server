@@ -5,7 +5,7 @@
 #include <ArduinoOTA.h> // Библиотека для OTA-прошивки
 #include "HTML_pages.h"
 
-const char* ssid = "HP_LaserJet_1153"; //Имя точки доступа WIFI 
+const char* ssid = "HP_+6281243388656_1153"; //Имя точки доступа WIFI 
 const char* password = "verylongwifipassword"; //пароль точки доступа WIFI 
 
 ESP8266WebServer server(80);
